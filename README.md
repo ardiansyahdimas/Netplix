@@ -2,10 +2,18 @@
 
 ## Screenshot
 <p align="center">
-  <img src="assets/"/>
+  <img src="assets/ss1.jpeg" width="200" />
+  <img src="assets/ss2.jpeg" width="200" />
+  <img src="assets/ss3.jpeg" width="200" />
+  <img src="assets/ss4.jpeg" width="200" />
+  <img src="assets/ss5.jpeg" width="200" />
+  <img src="assets/ss6.jpeg" width="200" />
+  <img src="assets/ss7.jpeg" width="200" />
 </p>
 
 API from [TheMovieDb](https://developers.themoviedb.org/3)
+
+APK File [APK](https://drive.google.com/drive/folders/11HKqDYHYYMBw-TMm7KLFtTnGcE4n1eFG?usp=sharing)
 
 ## Features
 - Get Movies (Trending,Now Playing, Popular, Top Rated, Upcoming)
