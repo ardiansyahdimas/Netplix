@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Netplix</string>
+    <string name="title_movies">Movies</string>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+    <string name="search_movie">Search movie…</string>
+    <string name="tidak_ada_data">%s not found!</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="date">date</string>
+    <string name="information">Information</string>
+    <string name="movie_info">Realese Date: %s\nGenre: %s\nRating: ★ %s\nOriginal Language: %s\nPopularity: %s</string>
+    <string name="search">Search</string>
+</resources>

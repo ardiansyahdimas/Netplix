@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.xsis.netplix.ui.screen.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_now_playing"
+        android:name="com.xsis.netplix.ui.screen.NowPlayingFragment"
+        android:label="@string/now_playing"
+        tools:layout="@layout/fragment_now_playing" />
+
+    <fragment
+        android:id="@+id/nav_popular"
+        android:name="com.xsis.netplix.ui.screen.PopularFragment"
+        android:label="@string/popular"
+        tools:layout="@layout/fragment_popular" />
+
+    <fragment
+        android:id="@+id/nav_top_rated"
+        android:name="com.xsis.netplix.ui.screen.TopRatedFragment"
+        android:label="@string/top_rated"
+        tools:layout="@layout/fragment_top_rated" />
+
+    <fragment
+        android:id="@+id/nav_upcoming"
+        android:name="com.xsis.netplix.ui.screen.UpcomingFragment"
+        android:label="@string/upcoming"
+        tools:layout="@layout/fragment_upcoming" />
+</navigation>
